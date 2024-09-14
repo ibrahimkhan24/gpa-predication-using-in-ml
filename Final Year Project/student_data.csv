@@ -1,0 +1,401 @@
+Gender,Age,Address,Family_size,Mother_Edu,Father_Edu,Mother_job,Father_job,Parent_Edu_level,Guardian,Travel_time,Std_hr_per_week,Attendance,Activities,Internet_access,Family_support,Extra_tutor,Study_Style,Parent_relationship_with_teacher,Study_enviroment,Learning_platforms,interest_in_field,major,number_of_abbsentes_month,quizzes_per_semester,time_managment_skill,GPA
+Female,19,URBAN,8,High School,None,Yes,No,High School,Other,50,31,79,Gaming,Yes,No,No,Individual,No,Average,,Yes,BSC ELECTRICAL ENG,8,12,Good,2.48
+Male,,URBAN,8,None,Master,Yes,Yes,Master,,58,23,78,Other,Yes,No,Yes,Individual,No,Poor,Platform4,No,BSC ELECTRICAL ENG,10,8,Poor,2.2
+Female,19,RURAL,4,None,PhD,Yes,,,Mother,89,30,94,Other,Yes,Yes,No,Individual,Yes,Average,Platform4,Yes,BS MLT,7,3,Average,2.93
+Female,23,RURAL,13,High School,PhD,No,Yes,High School,Other,61,33,91,Gaming,No,Yes,No,Individual,No,Poor,Platform1,No,BE CIVIL,10,10,Average,2.44
+Female,19,RURAL,3,Master,Master,No,No,Bachelor,Other,86,3,63,Gaming,No,No,Yes,Group,No,Good,Platform3,Yes,,2,14,Average,2.33
+Male,22,RURAL,7,Bachelor,High School,No,No,PhD,Other,58,23,60,Other,No,Yes,Yes,Group,No,Good,Platform3,No,BS CARDIOLOGY,6,5,Good,2.15
+Female,22,URBAN,8,,High School,No,Yes,High School,Mother,52,48,87,Gaming,Yes,No,Yes,Group,No,Average,Platform5,Yes,BS COMPUTER SCIENCE,1,13,Good,3.36
+Female,19,URBAN,11,Bachelor,Bachelor,No,No,PhD,Mother,11,41,,Other,Yes,No,Yes,Individual,No,Average,Platform3,No,,8,5,Poor,2.71
+Male,22,RURAL,14,Bachelor,High School,No,Yes,PhD,Father,63,48,63,Gaming,No,Yes,Yes,Individual,No,,Platform1,Yes,BS HEALTH SCIENCE,4,4,Poor,2.87
+Female,23,URBAN,11,None,PhD,Yes,Yes,PhD,Other,55,25,,Sports,No,No,No,Group,No,Good,Platform1,No,BS MLT,9,3,Average,2.05
+Male,22,URBAN,5,Master,High School,Yes,No,Bachelor,Father,27,15,71,Gaming,No,No,Yes,Group,Yes,Average,,Yes,BSC ELECTRICAL ENG,5,11,Good,2.68
+Female,,RURAL,11,PhD,None,Yes,Yes,Bachelor,Father,23,3,84,Gaming,Yes,No,,Individual,No,Average,Platform3,No,BS RADIOLOGY,8,8,Average,1.86
+Female,20,RURAL,13,Bachelor,PhD,,No,High School,Father,60,4,88,Sports,No,Yes,No,Group,Yes,Poor,Platform1,Yes,BS COMPUTER SCIENCE,2,0,Poor,2.2
+Male,18,URBAN,6,Bachelor,,Yes,No,PhD,Other,73,34,,Sports,Yes,No,Yes,Individual,Yes,Good,Platform2,No,BS SE,9,11,Average,3.03
+Male,23,RURAL,13,PhD,None,No,Yes,None,Other,27,43,69,Gaming,No,No,No,Individual,Yes,Average,Platform1,No,BS NURSING,1,4,Average,2.23
+Female,18,URBAN,,,High School,Yes,No,None,Mother,63,37,62,Gaming,No,Yes,No,Individual,,Poor,Platform3,Yes,BS SE,3,2,Good,2.48
+Female,19,RURAL,3,Master,High School,Yes,No,Bachelor,Mother,31,1,74,Sports,No,No,No,Group,Yes,Poor,,Yes,BS COMPUTER SCIENCE,,9,Good,2.65
+Female,19,URBAN,8,Master,None,Yes,Yes,PhD,Father,50,25,70,Other,Yes,No,No,Individual,No,Average,Platform2,Yes,BS CARDIOLOGY,10,18,Good,2.54
+Female,19,URBAN,2,Master,PhD,No,No,PhD,Father,70,39,64,Sports,Yes,No,No,Individual,No,Good,Platform3,No,BS MLT,3,14,Good,2.97
+Female,19,RURAL,4,High School,Bachelor,No,No,None,Other,22,13,69,Gaming,No,Yes,Yes,Individual,Yes,Poor,Platform2,Yes,BSC ELECTRICAL ENG,8,17,Average,2.43
+Male,22,URBAN,8,High School,PhD,No,No,High School,Mother,31,16,86,Sports,No,Yes,No,Individual,No,Good,Platform3,Yes,BS SE,8,8,Poor,1.89
+Female,18,URBAN,5,PhD,Bachelor,No,Yes,Master,Father,68,27,68,Sports,Yes,No,No,Individual,Yes,Poor,,No,BS COMPUTER SCIENCE,7,19,Average,
+Male,24,RURAL,9,Master,PhD,Yes,,PhD,Father,10,24,97,Gaming,No,Yes,Yes,Group,Yes,Poor,Platform2,No,BS COMPUTER SCIENCE,9,18,Poor,3.48
+Female,19,RURAL,7,None,Bachelor,No,No,None,Mother,26,30,,Sports,No,No,No,Group,Yes,Good,Platform5,Yes,BS HEALTH SCIENCE,4,8,Good,2.58
+Female,20,,12,Master,PhD,Yes,Yes,High School,Other,19,17,94,Other,Yes,No,No,Group,No,Poor,Platform3,No,BS NURSING,7,13,Good,2.39
+Female,,RURAL,12,PhD,PhD,No,No,Bachelor,Father,51,19,98,Sports,Yes,No,No,Group,No,Average,Platform4,Yes,BE CIVIL,1,18,Good,2.57
+Male,18,URBAN,4,Bachelor,High School,No,,Master,Other,81,46,87,Sports,Yes,Yes,Yes,Group,Yes,Average,Platform3,Yes,BS MLT,3,,Poor,3.86
+Female,23,URBAN,8,High School,None,Yes,Yes,,Father,16,34,79,Sports,No,Yes,Yes,Group,Yes,Poor,Platform4,No,BS RADIOLOGY,0,7,Average,3.09
+Female,,URBAN,8,High School,Master,No,,PhD,Other,,4,95,Sports,Yes,No,Yes,Group,No,Average,Platform3,No,BBA,0,11,Average,2.72
+Male,,URBAN,12,Master,Bachelor,Yes,No,Master,Father,53,39,96,Other,No,No,No,Individual,Yes,,Platform2,No,BS NURSING,3,0,Good,2.77
+Male,19,URBAN,13,Bachelor,High School,Yes,,None,Father,20,8,70,Gaming,No,No,No,Individual,Yes,Good,Platform1,Yes,BS MLT,8,8,Good,1.66
+Female,20,RURAL,3,Master,PhD,No,Yes,Master,Father,76,21,78,Gaming,No,No,Yes,Group,Yes,Average,Platform2,Yes,BSC ELECTRICAL ENG,3,12,Average,2.91
+Female,23,URBAN,11,High School,PhD,Yes,Yes,Bachelor,Other,52,49,64,Gaming,No,Yes,Yes,Group,,Average,Platform4,No,BS HEALTH SCIENCE,1,14,Poor,3.06
+Female,,URBAN,12,PhD,None,Yes,No,High School,Mother,14,25,84,Gaming,Yes,Yes,No,Individual,No,Average,Platform3,,BS HEALTH SCIENCE,,18,Poor,2.23
+Female,22,RURAL,2,Master,Bachelor,Yes,Yes,None,Other,48,3,75,Gaming,No,Yes,No,Individual,Yes,Good,Platform3,No,BS RADIOLOGY,9,13,Poor,1.81
+Male,18,URBAN,3,High School,None,No,Yes,PhD,Other,23,11,90,Gaming,,No,No,Individual,No,Poor,Platform3,No,BSC ELECTRICAL ENG,6,,Poor,2.39
+Male,21,RURAL,5,Master,PhD,No,No,Master,Other,57,35,73,Gaming,Yes,No,,Individual,,Average,Platform1,No,BS SE,6,1,Average,2.45
+Female,20,RURAL,5,None,Bachelor,No,Yes,PhD,Father,,25,76,Other,No,Yes,No,,No,Average,Platform1,No,BS MLT,6,16,Good,2.99
+Male,,,,PhD,PhD,No,Yes,None,Father,,1,100,Sports,Yes,Yes,No,Individual,Yes,,Platform2,Yes,BBA,1,17,Poor,2.9
+Male,24,URBAN,13,Master,None,No,Yes,None,Other,35,7,71,Sports,Yes,,Yes,Group,No,Poor,Platform2,No,B.COM,1,9,Good,2.05
+Male,22,RURAL,5,Master,High School,Yes,Yes,None,Other,88,14,94,Gaming,Yes,,Yes,,Yes,Good,Platform4,No,BS COMPUTER SCIENCE,8,9,Good,1.81
+Male,23,RURAL,6,Master,None,Yes,Yes,None,Father,44,39,77,Gaming,Yes,Yes,No,Group,Yes,Average,Platform1,No,BSC ELECTRICAL ENG,7,14,Good,2.58
+Male,21,RURAL,5,High School,High School,Yes,Yes,Bachelor,Mother,8,26,66,Sports,No,No,Yes,Group,,Good,Platform5,Yes,BS MLT,0,15,Poor,3.02
+Female,20,URBAN,11,None,High School,Yes,No,Bachelor,Father,88,28,84,Sports,,Yes,No,Group,No,Poor,Platform2,No,B.COM,6,11,Average,2.72
+Female,19,URBAN,11,High School,High School,Yes,No,Bachelor,Father,37,48,89,Sports,Yes,Yes,Yes,Individual,Yes,Good,Platform5,No,BS CARDIOLOGY,6,4,Average,3.21
+Male,18,RURAL,7,Master,None,Yes,Yes,PhD,Other,41,6,89,Other,No,Yes,Yes,Group,No,Good,Platform2,Yes,BS RADIOLOGY,3,1,Poor,2.27
+Female,24,RURAL,8,None,PhD,No,Yes,Bachelor,Other,10,46,62,Gaming,No,No,No,Individual,Yes,Poor,Platform5,No,BS CARDIOLOGY,3,13,Good,2.58
+Male,21,URBAN,10,High School,None,No,No,High School,Father,40,42,,Gaming,Yes,Yes,No,,No,Average,Platform5,No,BE CIVIL,10,9,Good,2.51
+Male,23,URBAN,,Bachelor,PhD,Yes,No,,Other,50,24,100,Gaming,Yes,Yes,No,,No,Good,Platform2,No,BS RADIOLOGY,8,18,Average,1.98
+Male,,URBAN,11,Bachelor,Bachelor,No,Yes,PhD,Father,8,25,77,Other,No,Yes,No,,No,Good,Platform1,Yes,BBA,2,17,Poor,3.1
+Male,,URBAN,13,High School,None,No,No,High School,Mother,63,14,99,Sports,No,Yes,No,Group,Yes,Poor,Platform2,No,BS RADIOLOGY,8,15,Good,2.22
+Male,18,URBAN,7,High School,Bachelor,Yes,No,None,Other,56,22,69,Gaming,No,No,No,Individual,No,Average,Platform1,No,BS COMPUTER SCIENCE,1,6,Good,1.62
+Female,21,RURAL,7,PhD,None,No,Yes,None,Mother,47,14,86,Sports,Yes,No,No,Individual,Yes,Poor,Platform3,No,BS NURSING,3,2,Average,1.91
+Female,21,RURAL,10,Master,None,No,No,PhD,Father,89,3,80,Gaming,Yes,No,No,Group,No,Average,Platform3,Yes,BS RADIOLOGY,4,3,Poor,1.49
+Female,22,URBAN,6,High School,None,No,No,Master,Mother,48,42,64,Sports,No,Yes,Yes,Group,Yes,Average,Platform3,Yes,BS HEALTH SCIENCE,4,17,Good,3.73
+Female,20,RURAL,7,PhD,,No,Yes,Master,Other,61,2,62,Other,No,Yes,Yes,Individual,No,Good,Platform3,No,BS NURSING,3,7,Poor,2.02
+Female,24,URBAN,2,None,High School,Yes,Yes,Master,Mother,54,46,99,Gaming,No,No,No,Group,No,Average,Platform4,,B.COM,3,17,Average,3.17
+Female,23,URBAN,5,PhD,None,Yes,Yes,PhD,Other,72,1,79,Gaming,Yes,Yes,No,Individual,No,Average,Platform4,No,BS COMPUTER SCIENCE,3,9,Average,2.08
+Female,19,RURAL,3,PhD,,Yes,Yes,Master,Mother,48,15,67,Sports,No,No,Yes,Individual,No,Good,Platform2,No,BSC ELECTRICAL ENG,4,,Poor,2.46
+Male,20,URBAN,8,PhD,Bachelor,No,Yes,Bachelor,Other,,37,91,Gaming,No,No,Yes,Individual,Yes,Good,Platform5,Yes,BS HEALTH SCIENCE,,2,Poor,2.54
+Female,23,URBAN,10,Master,High School,No,,High School,Father,19,8,92,Other,Yes,No,No,Group,No,Average,Platform4,No,BE CIVIL,10,,Average,1.89
+Female,24,RURAL,,Bachelor,PhD,Yes,,None,Mother,86,49,64,Sports,No,No,Yes,Group,Yes,Average,Platform4,Yes,BS CARDIOLOGY,9,0,Average,2.42
+Male,23,URBAN,5,Bachelor,High School,Yes,Yes,PhD,Mother,,10,87,Gaming,No,Yes,No,Individual,No,Average,Platform5,No,,3,17,Average,2.52
+Female,24,RURAL,6,Bachelor,None,Yes,No,None,Mother,32,45,84,Sports,No,Yes,No,Individual,Yes,Poor,Platform4,No,BS COMPUTER SCIENCE,2,15,Average,3.01
+Male,19,URBAN,7,PhD,,Yes,No,Bachelor,Other,60,50,68,Sports,Yes,No,No,Individual,Yes,Good,,No,BS COMPUTER SCIENCE,1,5,Average,2.83
+Female,19,RURAL,10,,Master,No,Yes,Master,Mother,70,5,86,Gaming,Yes,Yes,No,Individual,Yes,Average,Platform4,No,BS SE,2,20,Good,2.54
+Male,24,RURAL,13,PhD,Bachelor,Yes,Yes,Bachelor,Mother,84,17,98,Sports,Yes,No,Yes,Group,No,Average,Platform3,Yes,BSC ELECTRICAL ENG,3,13,Good,2.38
+Female,22,RURAL,4,PhD,High School,No,Yes,Master,Other,40,17,87,Sports,No,Yes,No,Group,No,Good,Platform5,No,BS MLT,9,5,Good,2.29
+Male,24,URBAN,11,Master,None,Yes,No,PhD,Other,85,17,94,Sports,,No,No,Individual,Yes,Average,Platform3,,BS RADIOLOGY,10,20,Poor,2.57
+Female,,RURAL,5,Master,Master,Yes,Yes,Bachelor,Mother,15,4,72,Other,Yes,No,Yes,Individual,No,Average,Platform2,No,BS NURSING,2,11,Average,2.31
+Male,21,RURAL,4,None,Bachelor,No,Yes,Bachelor,Mother,75,41,68,Other,Yes,Yes,No,Group,Yes,Average,Platform5,,BSC ELECTRICAL ENG,6,2,Poor,2.81
+Female,18,RURAL,11,PhD,High School,No,,Master,Other,53,3,100,,No,No,Yes,Group,Yes,Average,Platform5,Yes,BS MLT,5,5,Good,2.21
+Female,,URBAN,3,None,PhD,Yes,No,Master,,52,33,92,Gaming,Yes,No,No,Individual,No,Poor,Platform1,Yes,BS COMPUTER SCIENCE,10,20,Poor,3.15
+Male,22,URBAN,,Bachelor,None,Yes,Yes,,Mother,29,7,60,Sports,No,No,No,Group,No,Average,Platform4,No,B.COM,,,Poor,2.04
+Male,22,,12,Bachelor,PhD,No,Yes,PhD,Father,21,22,77,Gaming,No,Yes,Yes,Individual,Yes,Average,Platform5,No,BS COMPUTER SCIENCE,6,1,Average,2.64
+Female,22,RURAL,10,Master,Bachelor,No,Yes,PhD,Father,7,29,72,Gaming,Yes,Yes,Yes,Individual,Yes,Good,Platform1,Yes,BS RADIOLOGY,7,9,Average,3.13
+Female,21,URBAN,12,Master,PhD,Yes,Yes,None,Mother,57,23,76,Other,Yes,Yes,No,Group,No,Poor,Platform1,Yes,BBA,1,7,Good,2.12
+Female,23,URBAN,8,High School,High School,No,No,PhD,Father,61,,71,Other,,Yes,,,No,Good,Platform1,Yes,BS COMPUTER SCIENCE,9,6,Average,2.7
+Male,24,URBAN,12,High School,PhD,Yes,No,High School,Father,57,50,75,Sports,,Yes,No,Individual,,Average,Platform3,Yes,,2,16,Poor,3.41
+Male,18,URBAN,5,None,High School,No,No,None,Other,16,5,,Gaming,Yes,No,Yes,Group,Yes,Good,Platform1,No,B.COM,10,20,Good,2.25
+,19,RURAL,13,Bachelor,High School,Yes,Yes,None,Mother,40,5,60,Gaming,Yes,,No,Individual,No,Poor,Platform5,Yes,BS MLT,3,19,Poor,1.57
+Male,23,URBAN,14,Master,Bachelor,,No,High School,Mother,47,32,,Sports,Yes,Yes,No,Group,No,Average,Platform2,Yes,BSC ELECTRICAL ENG,,13,Average,
+Male,21,URBAN,4,High School,PhD,No,Yes,PhD,Father,47,3,96,Other,Yes,Yes,No,Individual,No,Average,Platform4,No,BS CARDIOLOGY,1,14,,2.79
+Male,20,URBAN,4,,Master,Yes,Yes,Master,Father,14,26,,Other,No,,Yes,Individual,,Average,Platform3,No,BS NURSING,7,9,Poor,2.8
+Female,20,URBAN,6,High School,Bachelor,No,Yes,High School,Mother,33,31,77,Other,No,Yes,Yes,Group,Yes,Average,,No,BS COMPUTER SCIENCE,2,9,Average,3.27
+Male,21,URBAN,12,High School,None,Yes,Yes,Master,Other,36,12,85,Other,No,Yes,No,Group,Yes,Poor,Platform1,Yes,BSC ELECTRICAL ENG,2,15,Good,3.08
+Female,22,RURAL,9,Master,Master,Yes,Yes,High School,Mother,57,11,100,Sports,,Yes,No,Individual,No,Average,Platform3,No,B.COM,7,15,Average,2.52
+Male,21,URBAN,4,None,Master,Yes,Yes,Master,Other,64,3,85,Sports,,Yes,No,Individual,Yes,Good,Platform3,,BS NURSING,8,18,Good,2.72
+Male,23,RURAL,14,High School,None,Yes,Yes,Master,Mother,24,12,64,Sports,No,,,,No,Average,Platform5,No,BS MLT,0,14,Poor,1.99
+Male,24,RURAL,6,High School,High School,Yes,Yes,PhD,Mother,17,13,70,Sports,No,,Yes,Group,No,Good,Platform5,Yes,BS HEALTH SCIENCE,3,14,Good,
+Female,18,URBAN,6,None,Bachelor,Yes,Yes,High School,Other,50,21,93,Sports,No,No,No,Individual,No,Average,Platform2,Yes,B.COM,9,6,Good,1.91
+Male,23,RURAL,11,High School,PhD,Yes,No,High School,Other,69,10,,Other,No,No,No,,No,Average,Platform5,No,BS NURSING,10,16,Good,1.79
+Female,19,URBAN,13,Bachelor,High School,Yes,Yes,None,Other,72,36,,Other,Yes,No,No,Group,Yes,Poor,Platform5,Yes,BBA,10,18,Good,2.52
+Female,24,RURAL,14,Master,None,Yes,No,None,Other,26,7,78,Gaming,Yes,No,No,Group,Yes,Poor,Platform3,Yes,BSC ELECTRICAL ENG,6,6,Average,1.84
+Male,19,URBAN,3,None,Master,Yes,No,None,Other,13,32,95,,,No,Yes,Individual,Yes,Poor,Platform3,No,BS HEALTH SCIENCE,,1,Average,2.59
+,19,URBAN,7,Bachelor,Master,No,Yes,,Other,12,28,80,Gaming,No,Yes,No,Individual,Yes,Good,Platform4,No,BS NURSING,7,17,Good,2.79
+Male,24,,5,PhD,Master,No,No,High School,Other,75,,65,Other,No,Yes,No,Group,No,Good,Platform3,No,BS SE,4,0,Good,1.55
+Female,23,URBAN,9,High School,High School,Yes,No,Bachelor,Father,73,49,95,Other,,Yes,No,Individual,,Good,Platform3,Yes,BS SE,9,17,Poor,3.52
+Female,19,URBAN,6,High School,Bachelor,Yes,No,PhD,Mother,47,9,73,Sports,Yes,No,No,Group,Yes,Average,Platform5,No,BS HEALTH SCIENCE,4,20,Average,2.75
+Male,22,RURAL,12,None,None,,,Bachelor,,87,26,100,Other,Yes,No,No,Individual,Yes,Average,Platform5,Yes,BS HEALTH SCIENCE,3,1,Average,2.35
+Male,,RURAL,4,Master,Bachelor,Yes,Yes,Master,Father,78,38,99,,No,No,No,Group,Yes,Average,Platform3,No,BSC ELECTRICAL ENG,8,11,Average,3.09
+Male,24,RURAL,13,Master,Bachelor,Yes,Yes,Bachelor,,47,16,90,Sports,No,Yes,Yes,Group,Yes,Average,Platform3,No,BS RADIOLOGY,7,0,Poor,2.16
+Female,23,RURAL,2,Master,Master,,Yes,Master,Mother,31,27,71,Sports,Yes,Yes,Yes,Group,Yes,Poor,Platform4,Yes,BSC ELECTRICAL ENG,9,10,,3.15
+Female,20,URBAN,13,None,None,Yes,Yes,None,Mother,59,6,68,Other,Yes,Yes,Yes,Group,No,Average,Platform1,Yes,BS HEALTH SCIENCE,2,3,Poor,2.08
+Male,20,URBAN,11,High School,High School,Yes,Yes,PhD,Father,29,19,86,Sports,Yes,,No,Individual,No,Good,Platform3,Yes,BBA,8,12,Good,2.6
+Male,21,URBAN,4,High School,PhD,Yes,Yes,Master,Father,48,1,100,Gaming,Yes,Yes,,Individual,No,Good,Platform2,,BS CARDIOLOGY,9,4,Good,2.53
+Male,19,,4,High School,High School,No,No,Master,Mother,13,37,91,Gaming,Yes,No,No,Individual,No,Average,Platform4,No,BBA,1,,Poor,2.76
+Female,20,URBAN,14,Bachelor,PhD,No,Yes,PhD,Father,85,33,86,Gaming,Yes,Yes,No,Individual,Yes,Poor,Platform1,No,BSC ELECTRICAL ENG,2,17,Good,2.91
+Female,18,RURAL,11,None,High School,No,Yes,None,Father,58,,97,Gaming,No,No,Yes,Group,,Poor,Platform5,Yes,BS NURSING,5,14,Average,3.19
+Female,24,URBAN,8,Master,Master,Yes,No,Master,Other,46,19,79,,Yes,Yes,Yes,Group,Yes,Poor,Platform3,No,BS RADIOLOGY,3,20,Good,3.57
+Male,21,RURAL,10,Master,,,Yes,High School,Father,31,,91,Gaming,No,No,No,Group,No,Poor,Platform2,No,BS MLT,1,10,Good,2.31
+Female,22,RURAL,11,Master,High School,Yes,,High School,Mother,38,20,66,Gaming,Yes,,,Group,Yes,,Platform5,Yes,BBA,6,14,Average,2.96
+Male,20,RURAL,3,PhD,Bachelor,Yes,No,None,Mother,27,3,97,Gaming,No,Yes,Yes,Individual,Yes,Poor,Platform3,No,B.COM,1,4,Good,2.21
+Female,19,RURAL,3,Bachelor,High School,Yes,No,Bachelor,Father,25,48,71,Other,No,No,No,Individual,No,Poor,Platform1,,BS HEALTH SCIENCE,8,18,Poor,3.41
+Male,24,URBAN,3,None,None,Yes,Yes,Bachelor,Father,42,,75,Other,No,No,,Group,No,Average,Platform3,No,BS COMPUTER SCIENCE,5,20,Average,2.91
+Female,24,URBAN,2,PhD,Bachelor,No,Yes,,Mother,51,42,64,Sports,No,Yes,No,,Yes,Good,Platform3,No,BBA,9,10,Good,2.91
+Female,24,RURAL,3,,None,No,Yes,PhD,Mother,89,1,95,Gaming,Yes,Yes,Yes,Individual,No,Average,Platform2,Yes,BE CIVIL,3,18,Average,3.12
+Male,22,RURAL,9,,High School,No,Yes,None,Father,29,39,77,Sports,No,Yes,Yes,Individual,No,Good,Platform4,No,BS SE,3,11,Average,2.89
+Female,18,URBAN,2,High School,PhD,Yes,No,Bachelor,Father,38,1,85,Other,No,Yes,Yes,Individual,Yes,Average,Platform5,No,BS SE,7,2,Poor,2.39
+Male,18,RURAL,8,None,High School,No,Yes,Master,Other,57,10,72,Other,Yes,No,No,Group,Yes,Poor,Platform5,Yes,BS COMPUTER SCIENCE,,11,Poor,2.35
+Female,18,,13,High School,Master,No,Yes,Master,Mother,25,50,60,Sports,No,Yes,No,Group,No,Poor,Platform3,No,,4,,Good,2.89
+,22,URBAN,7,PhD,Bachelor,No,Yes,Master,Father,85,4,92,Other,Yes,No,Yes,Group,No,Poor,Platform2,Yes,BS COMPUTER SCIENCE,5,11,Average,2.17
+Male,23,,11,Master,PhD,No,No,None,Father,14,6,66,Gaming,No,No,Yes,,,Good,Platform4,Yes,BS SE,5,8,Good,2.07
+Female,20,RURAL,,Bachelor,None,No,No,High School,Father,18,,95,,Yes,No,Yes,Individual,No,Good,Platform3,No,BS MLT,2,12,Average,2.69
+Female,20,RURAL,10,High School,None,No,No,High School,Mother,70,19,100,Gaming,No,Yes,Yes,Group,Yes,,Platform5,No,BS HEALTH SCIENCE,3,8,Poor,2.44
+Female,23,RURAL,7,,High School,Yes,Yes,None,Other,81,46,79,Other,No,No,No,Group,No,Good,Platform3,Yes,B.COM,8,16,Good,2.41
+Male,23,RURAL,8,High School,None,Yes,No,High School,Father,64,12,95,Other,No,Yes,Yes,Group,Yes,,Platform1,No,B.COM,5,17,Good,2.75
+Male,19,URBAN,10,Bachelor,None,Yes,No,PhD,Other,65,1,89,Sports,No,No,Yes,Group,Yes,Average,Platform4,No,BS SE,9,15,Average,2.57
+Female,23,URBAN,3,None,None,No,,Bachelor,Mother,45,39,83,Other,No,Yes,No,,No,Good,Platform3,Yes,BS COMPUTER SCIENCE,3,,Poor,3.14
+Male,22,URBAN,6,PhD,None,Yes,No,PhD,Other,48,45,85,Sports,No,No,No,Individual,,Average,Platform2,No,BE CIVIL,4,10,Poor,3.13
+Female,20,URBAN,7,None,Bachelor,No,No,Bachelor,Other,71,42,80,Gaming,Yes,Yes,Yes,,Yes,Poor,Platform5,No,BS NURSING,10,18,Poor,2.98
+Male,23,URBAN,14,Master,Bachelor,No,No,Bachelor,Other,41,18,68,Sports,Yes,No,Yes,Individual,Yes,Good,Platform1,Yes,BS COMPUTER SCIENCE,9,8,Poor,2.44
+Male,21,URBAN,11,High School,Bachelor,Yes,Yes,Bachelor,,88,45,98,,Yes,Yes,No,,No,Poor,Platform2,Yes,BS SE,6,8,Poor,2.78
+,19,RURAL,14,,PhD,Yes,Yes,High School,Mother,49,19,82,Gaming,No,No,Yes,Group,Yes,Average,Platform5,Yes,B.COM,2,10,,2.42
+,20,URBAN,2,Master,PhD,No,No,PhD,Father,59,7,,Sports,No,Yes,Yes,Individual,No,Good,Platform1,Yes,BS CARDIOLOGY,8,,Average,2.66
+Male,21,URBAN,7,None,PhD,No,Yes,None,Father,77,16,75,Sports,No,No,No,Individual,Yes,Poor,,Yes,BS NURSING,10,3,Poor,1.9
+Male,19,URBAN,8,High School,High School,No,No,Bachelor,Father,10,40,64,Sports,No,No,No,Individual,No,Average,Platform4,No,BE CIVIL,5,12,Good,2.71
+Female,18,URBAN,11,Master,,Yes,No,High School,Other,47,1,71,Sports,No,No,Yes,Individual,Yes,Good,Platform3,Yes,BS SE,5,16,Poor,2.16
+Male,18,URBAN,3,None,Master,No,Yes,Bachelor,Other,83,38,86,Other,No,Yes,Yes,Group,No,Good,Platform5,Yes,BS NURSING,8,0,Average,2.64
+Male,21,URBAN,3,Bachelor,None,No,Yes,Master,Other,46,37,71,Gaming,Yes,No,No,Group,No,Poor,Platform1,No,BS COMPUTER SCIENCE,9,9,Good,2.07
+Female,18,URBAN,5,Bachelor,Master,No,No,,Mother,32,8,86,Sports,No,No,Yes,,Yes,Poor,Platform4,Yes,BS MLT,9,17,Average,2.51
+Male,21,RURAL,3,High School,PhD,No,Yes,High School,Father,7,46,72,Sports,,No,No,Group,Yes,Average,Platform3,No,BSC ELECTRICAL ENG,8,8,Poor,2.93
+Female,19,URBAN,12,PhD,Master,No,Yes,None,Mother,41,12,88,,No,Yes,No,Group,No,Average,Platform4,No,BS COMPUTER SCIENCE,7,19,Average,2.2
+Female,20,URBAN,8,PhD,,No,No,High School,Other,72,5,60,Other,Yes,No,,Individual,No,Good,Platform2,Yes,BS CARDIOLOGY,,11,Poor,2.07
+Male,19,URBAN,12,None,PhD,Yes,No,High School,Father,50,7,65,Other,No,Yes,,Individual,No,Good,Platform2,No,BS NURSING,9,9,,1.98
+Female,21,URBAN,,High School,,No,Yes,PhD,Mother,44,39,98,Sports,Yes,Yes,Yes,Group,No,Average,Platform3,No,BBA,6,20,Average,4
+Female,24,RURAL,9,PhD,None,No,No,Master,Father,49,41,,Sports,Yes,Yes,Yes,Group,No,Poor,Platform2,Yes,BS SE,8,0,Average,2.79
+Female,22,RURAL,13,Bachelor,None,,No,PhD,Father,75,7,82,,Yes,Yes,No,Group,Yes,Poor,Platform3,Yes,BSC ELECTRICAL ENG,7,14,Poor,2.7
+Female,22,RURAL,8,PhD,Bachelor,Yes,Yes,Master,Father,59,17,84,Gaming,No,No,Yes,Individual,No,Good,Platform2,Yes,BS COMPUTER SCIENCE,8,19,Poor,2.36
+Female,24,,13,High School,PhD,Yes,No,Master,Other,78,35,86,Other,Yes,Yes,Yes,Individual,Yes,Good,Platform2,No,BBA,5,,Poor,3.18
+Male,23,URBAN,6,PhD,PhD,No,No,PhD,Other,8,17,65,Sports,No,,No,Group,Yes,,Platform2,Yes,BS SE,7,6,,2.7
+Male,23,URBAN,11,None,Master,Yes,Yes,None,Father,30,33,78,Other,Yes,Yes,Yes,Individual,Yes,,Platform3,No,BBA,0,0,Poor,3.05
+Male,23,URBAN,4,None,None,Yes,Yes,PhD,Other,76,29,88,Sports,Yes,Yes,No,Group,No,Good,Platform5,Yes,BS RADIOLOGY,8,5,Good,2.6
+Female,21,URBAN,5,Bachelor,Bachelor,Yes,No,Bachelor,Mother,29,37,63,Gaming,No,Yes,No,Individual,No,Good,Platform5,Yes,B.COM,10,,Good,2.6
+Female,18,URBAN,12,None,None,No,Yes,Bachelor,Mother,87,33,83,Gaming,No,Yes,Yes,,No,Good,Platform2,Yes,BS CARDIOLOGY,10,20,Average,2.76
+Male,21,URBAN,8,High School,Master,No,Yes,None,Mother,71,50,69,Other,No,Yes,No,Group,No,Good,Platform5,Yes,BS CARDIOLOGY,8,15,Poor,2.63
+Female,23,RURAL,8,None,Master,No,Yes,Master,Other,74,49,65,Other,Yes,Yes,Yes,Group,No,Good,Platform4,No,BS COMPUTER SCIENCE,3,9,Average,3.23
+Female,20,RURAL,4,High School,None,No,Yes,Bachelor,,38,9,86,Other,No,No,No,Group,Yes,Good,Platform2,,BBA,10,16,Good,2.27
+Female,19,RURAL,3,PhD,,Yes,,PhD,Mother,77,22,93,Gaming,No,No,No,Group,No,Poor,Platform4,Yes,B.COM,2,18,Good,2.58
+Male,21,RURAL,12,Master,Bachelor,Yes,Yes,Master,Mother,59,25,61,Sports,Yes,Yes,Yes,Group,No,Poor,Platform5,No,BS MLT,,10,Good,2.53
+Female,23,URBAN,9,None,High School,Yes,No,None,Other,71,17,,Sports,No,No,Yes,Group,Yes,Average,Platform3,No,BBA,7,20,Average,2.38
+Female,24,RURAL,10,PhD,Master,No,No,High School,Other,15,22,80,Other,Yes,No,No,Group,No,Poor,Platform1,No,B.COM,7,1,Average,2.08
+Female,20,RURAL,10,High School,PhD,Yes,Yes,PhD,Other,31,11,87,Sports,Yes,Yes,Yes,Individual,No,Poor,Platform3,No,BS HEALTH SCIENCE,6,0,Average,2.46
+Female,22,RURAL,13,PhD,None,No,Yes,None,Father,77,33,72,Sports,No,No,Yes,Individual,No,Average,Platform3,Yes,BS SE,0,7,Average,2.41
+Female,21,RURAL,13,PhD,PhD,Yes,No,Master,Father,82,9,91,Other,Yes,No,Yes,Individual,Yes,Good,Platform5,Yes,BBA,3,6,Poor,2.22
+Female,18,RURAL,,High School,High School,No,,None,Other,75,38,87,Gaming,No,,No,Group,Yes,Poor,Platform3,,BS COMPUTER SCIENCE,2,,Poor,2.22
+,23,URBAN,4,Master,None,No,No,Master,Mother,69,7,63,Other,No,No,No,Group,No,Poor,Platform5,Yes,BE CIVIL,9,1,Good,1.4
+Female,,RURAL,13,High School,Master,No,Yes,None,Other,,27,80,Other,Yes,Yes,No,Group,No,Average,Platform1,No,BS SE,4,18,Good,1.98
+Male,23,RURAL,11,Bachelor,Master,,No,None,Mother,32,43,70,Other,No,Yes,Yes,Individual,No,,Platform5,Yes,BS CARDIOLOGY,10,0,Poor,2.61
+Female,22,RURAL,13,PhD,Bachelor,Yes,Yes,None,Other,58,28,69,Sports,No,Yes,,Individual,No,Poor,Platform4,No,BS HEALTH SCIENCE,5,20,Good,2.36
+Female,23,RURAL,10,None,Master,No,Yes,Master,Father,49,46,65,Other,No,No,No,Group,Yes,Good,Platform5,No,B.COM,10,0,,
+Male,23,URBAN,12,Bachelor,High School,No,Yes,PhD,Mother,12,26,73,Other,Yes,No,No,Group,No,Good,Platform4,Yes,BS RADIOLOGY,9,8,Average,2.47
+Male,20,URBAN,2,Bachelor,High School,,No,None,Father,44,21,100,Gaming,Yes,No,Yes,Group,Yes,,Platform3,Yes,BS NURSING,1,14,Poor,3.21
+Male,21,URBAN,13,High School,None,Yes,Yes,PhD,Mother,11,21,77,Gaming,No,No,Yes,Group,Yes,Average,Platform3,Yes,BS NURSING,9,6,Average,2.4
+Female,21,RURAL,5,Bachelor,Bachelor,No,No,,Mother,69,14,85,Other,No,Yes,Yes,Individual,Yes,Good,Platform4,No,BS SE,1,18,Good,2.88
+Female,23,,2,None,Bachelor,No,Yes,PhD,Other,49,35,63,Gaming,No,No,Yes,Individual,Yes,Poor,Platform3,Yes,BS SE,0,2,Poor,3.04
+Female,24,RURAL,7,Bachelor,High School,No,Yes,PhD,Mother,19,5,60,Other,No,No,No,,Yes,Poor,Platform2,Yes,BS NURSING,4,3,Average,2.02
+Male,18,URBAN,9,Bachelor,None,No,Yes,High School,Other,23,49,74,Gaming,Yes,Yes,No,Individual,No,Average,Platform1,No,BS RADIOLOGY,4,18,Good,2.8
+Male,21,URBAN,9,PhD,PhD,Yes,Yes,None,Father,64,15,74,Other,No,Yes,Yes,Individual,Yes,,Platform5,No,,10,14,Average,2.22
+Male,19,URBAN,14,Bachelor,PhD,,No,,Other,76,25,83,Gaming,No,Yes,No,Group,Yes,Good,,Yes,BS NURSING,0,18,Good,2.94
+Female,24,,6,PhD,PhD,No,,High School,Father,20,2,66,Sports,Yes,No,No,Individual,Yes,Poor,Platform3,Yes,BS RADIOLOGY,2,7,Poor,2.22
+,24,RURAL,13,PhD,Bachelor,No,Yes,Master,Father,,,75,Gaming,No,No,Yes,Group,No,Average,Platform1,Yes,BS RADIOLOGY,3,6,Average,2.54
+,21,URBAN,14,PhD,High School,Yes,Yes,PhD,Other,46,44,65,Gaming,No,No,No,Individual,No,Average,Platform2,Yes,BS MLT,0,0,Good,2.16
+Female,20,,10,,Master,Yes,No,Bachelor,Mother,7,14,,Other,No,Yes,No,,Yes,Average,Platform2,Yes,BS RADIOLOGY,8,8,Good,1.97
+Male,24,,4,High School,High School,No,No,PhD,Father,31,37,99,Gaming,Yes,No,Yes,Group,Yes,Poor,Platform5,Yes,BSC ELECTRICAL ENG,2,16,Good,3.95
+Female,19,URBAN,13,Master,None,,Yes,Master,,34,34,67,Gaming,Yes,No,No,Group,Yes,Good,Platform3,No,BS MLT,,11,Poor,2.08
+Male,18,URBAN,11,PhD,Master,No,No,None,Father,37,13,77,Sports,Yes,No,No,,Yes,Poor,Platform3,Yes,B.COM,10,16,Poor,2.02
+Female,20,URBAN,7,None,PhD,Yes,Yes,None,Father,31,17,92,Other,No,Yes,No,Individual,No,Poor,Platform2,No,BE CIVIL,8,9,Good,2.07
+Male,18,URBAN,14,Master,High School,Yes,Yes,None,Father,59,6,89,Sports,Yes,No,Yes,Individual,No,,Platform4,No,BS HEALTH SCIENCE,5,9,Poor,1.65
+Female,24,URBAN,14,High School,High School,No,Yes,Master,Other,39,34,91,Other,No,No,No,Individual,Yes,Poor,Platform1,Yes,,10,4,Average,2.64
+Male,24,URBAN,3,High School,None,Yes,Yes,Bachelor,Other,69,32,75,Other,No,,Yes,Individual,No,Poor,Platform2,No,B.COM,9,7,Good,2.28
+Female,,RURAL,9,Master,Master,No,No,None,Father,68,9,71,Other,Yes,No,No,Group,Yes,Average,Platform1,Yes,BSC ELECTRICAL ENG,2,7,Good,2.06
+Male,21,RURAL,9,Bachelor,Bachelor,Yes,Yes,PhD,Other,54,34,91,Gaming,No,No,Yes,Individual,Yes,Average,Platform5,No,BS NURSING,6,7,Poor,2.67
+Male,21,RURAL,3,None,Master,No,No,High School,Other,15,,78,Other,No,No,,Group,Yes,Good,Platform2,No,BS RADIOLOGY,0,0,Average,1.56
+Female,,RURAL,7,PhD,None,No,No,None,Father,10,33,98,Sports,No,Yes,Yes,Group,No,Poor,Platform5,Yes,BE CIVIL,10,14,Poor,3.2
+Female,22,RURAL,2,High School,None,No,No,PhD,Father,59,32,82,Gaming,No,No,No,Individual,No,Good,Platform4,,BS RADIOLOGY,4,14,Good,2.83
+Male,22,RURAL,9,High School,Bachelor,Yes,Yes,Bachelor,Other,85,3,67,Other,No,,Yes,Individual,Yes,Average,Platform4,Yes,BS HEALTH SCIENCE,6,3,,2.16
+Female,,RURAL,10,Bachelor,High School,No,No,PhD,Other,67,43,95,Other,Yes,No,No,Group,No,Poor,,Yes,BS COMPUTER SCIENCE,5,12,Average,3.05
+Male,19,URBAN,6,Bachelor,PhD,No,No,PhD,,66,28,79,Gaming,No,No,No,Group,No,Good,Platform5,No,BS COMPUTER SCIENCE,10,18,Average,2.73
+Male,22,URBAN,7,PhD,PhD,No,Yes,Bachelor,Other,88,17,65,Sports,No,,Yes,Individual,No,Poor,Platform2,,BS COMPUTER SCIENCE,10,10,,2.51
+Male,23,URBAN,4,PhD,Bachelor,Yes,No,PhD,Father,66,24,60,Sports,No,Yes,Yes,Group,No,Poor,Platform1,No,BBA,7,4,Poor,2.49
+Female,23,URBAN,2,None,High School,No,Yes,PhD,Mother,72,3,61,Gaming,Yes,No,Yes,Individual,Yes,Average,Platform1,Yes,BS CARDIOLOGY,6,14,Good,2.53
+Male,21,URBAN,10,None,None,Yes,Yes,Bachelor,Father,83,8,74,Gaming,Yes,No,No,Group,No,Poor,Platform5,Yes,BSC ELECTRICAL ENG,8,,Average,1.74
+Male,21,URBAN,8,Master,Master,No,No,Bachelor,Father,14,38,78,Gaming,Yes,No,Yes,Individual,Yes,Good,Platform2,Yes,,1,15,Poor,3.57
+Female,18,URBAN,13,,Bachelor,No,Yes,PhD,Father,51,46,66,Gaming,Yes,Yes,No,Individual,Yes,Average,Platform3,Yes,BS NURSING,0,18,Good,3.65
+Female,20,RURAL,7,Bachelor,High School,Yes,No,Bachelor,Mother,,21,,Gaming,Yes,No,No,Group,Yes,,Platform4,No,BS COMPUTER SCIENCE,9,13,Good,
+Male,20,URBAN,5,PhD,Master,Yes,No,None,Father,39,1,92,Other,Yes,Yes,No,Individual,Yes,Good,Platform4,Yes,BS RADIOLOGY,8,20,Good,2.61
+Female,19,RURAL,10,High School,High School,No,No,PhD,Father,40,8,71,Sports,No,Yes,Yes,Individual,Yes,Poor,,No,BS NURSING,4,8,Good,2.52
+,,URBAN,12,None,High School,No,No,High School,,84,26,83,Gaming,,No,No,Group,No,Poor,Platform2,No,BBA,4,16,Average,2.05
+Male,24,RURAL,14,High School,,No,No,Master,Mother,8,25,84,Other,Yes,Yes,No,Individual,Yes,Good,Platform1,No,B.COM,5,16,Good,3.02
+Female,19,URBAN,11,,Master,Yes,,None,Mother,10,2,68,Gaming,No,No,No,Group,Yes,Good,Platform1,Yes,BS HEALTH SCIENCE,4,17,Poor,2.14
+Male,18,RURAL,2,Master,PhD,Yes,Yes,Master,Other,46,36,79,Sports,No,Yes,Yes,Individual,Yes,Average,Platform1,No,BE CIVIL,1,12,Average,3.5
+Male,21,URBAN,12,PhD,PhD,Yes,Yes,Bachelor,Mother,69,31,62,Sports,No,No,No,,No,Average,Platform2,No,BS HEALTH SCIENCE,10,20,Average,2.35
+Male,21,RURAL,9,Bachelor,Master,No,Yes,,Father,69,35,88,Sports,,Yes,Yes,Individual,Yes,Poor,Platform2,No,BS COMPUTER SCIENCE,3,9,Average,
+Male,19,URBAN,4,High School,,Yes,Yes,Master,Father,34,29,98,,Yes,Yes,Yes,Individual,Yes,Average,Platform5,Yes,BS RADIOLOGY,5,10,Average,3.48
+Male,22,URBAN,12,None,High School,Yes,No,None,Other,65,35,93,Other,No,,No,Individual,No,Poor,Platform5,Yes,BS CARDIOLOGY,3,14,Good,2.51
+Male,18,URBAN,10,Master,Bachelor,No,Yes,High School,Other,54,22,,Sports,Yes,Yes,Yes,Group,Yes,Average,Platform3,Yes,BS RADIOLOGY,7,1,Good,2.44
+Male,23,RURAL,9,None,Bachelor,No,No,High School,Father,32,24,93,Gaming,Yes,Yes,Yes,Individual,Yes,,Platform3,Yes,BS SE,8,19,,3.34
+Male,21,URBAN,,Master,Master,Yes,No,,Other,87,18,70,Sports,No,Yes,No,Group,Yes,Average,Platform1,No,BS NURSING,9,8,Good,2.38
+Female,21,URBAN,2,High School,Master,No,No,Master,Mother,80,6,83,Other,Yes,No,Yes,Group,No,Average,Platform2,No,BS NURSING,1,8,Average,2.29
+Male,24,RURAL,7,None,Bachelor,Yes,Yes,Master,Father,32,4,73,Sports,No,Yes,Yes,Group,No,Poor,Platform5,No,BS NURSING,1,3,Average,2.21
+Female,18,RURAL,4,PhD,PhD,No,No,,Father,71,26,90,Gaming,Yes,No,No,Group,Yes,Good,Platform1,Yes,BE CIVIL,2,5,Good,2.54
+Male,23,RURAL,,Master,Master,Yes,No,PhD,Mother,22,22,60,Other,No,Yes,No,Group,Yes,Average,Platform5,Yes,BS CARDIOLOGY,2,12,Good,2.86
+Female,23,URBAN,8,Master,None,Yes,Yes,Master,Father,87,7,67,Other,No,Yes,Yes,Individual,No,Poor,Platform2,Yes,BS MLT,7,2,Poor,2.12
+Male,19,RURAL,10,Master,PhD,Yes,Yes,Bachelor,Father,14,20,63,Gaming,Yes,Yes,Yes,Individual,No,Poor,,Yes,B.COM,9,12,Good,2.3
+Male,22,URBAN,6,Master,High School,,Yes,Bachelor,Mother,30,23,,Sports,,No,,,Yes,Poor,Platform3,Yes,BE CIVIL,10,19,Poor,2.72
+Male,24,RURAL,2,,Master,No,Yes,Master,Other,47,,91,Sports,Yes,Yes,No,Group,Yes,Good,Platform2,No,BS COMPUTER SCIENCE,5,15,Poor,3.22
+,24,RURAL,5,Bachelor,Master,No,No,Master,Father,45,22,68,Sports,No,No,No,Individual,No,Good,Platform2,Yes,BBA,6,8,Average,2.44
+Male,19,RURAL,12,Master,PhD,No,,None,,44,13,63,Sports,Yes,No,No,Individual,Yes,Average,Platform1,Yes,BS MLT,0,16,Good,2.27
+Female,18,RURAL,6,High School,PhD,No,Yes,Master,Mother,75,23,71,Sports,Yes,No,Yes,Individual,No,Poor,Platform2,No,BS CARDIOLOGY,8,,Poor,2.15
+Male,20,URBAN,3,Bachelor,High School,No,Yes,None,Other,67,11,83,Sports,,Yes,No,Group,No,Good,Platform4,No,BBA,9,,Good,1.6
+Female,19,RURAL,10,High School,High School,Yes,No,Bachelor,Other,56,15,80,Sports,Yes,No,Yes,Individual,No,Good,Platform1,Yes,BS MLT,5,0,Poor,1.93
+Female,20,URBAN,4,None,Bachelor,Yes,Yes,PhD,Father,37,45,61,Other,No,Yes,Yes,Group,Yes,Good,Platform3,Yes,BS COMPUTER SCIENCE,4,11,Poor,3.57
+Male,24,URBAN,10,High School,Master,No,Yes,Master,Mother,78,42,66,Sports,Yes,Yes,Yes,Group,No,Good,Platform1,No,BS HEALTH SCIENCE,5,16,Poor,3.27
+Female,18,RURAL,11,High School,High School,Yes,No,Master,Father,84,6,64,Sports,Yes,No,Yes,Individual,Yes,Poor,Platform1,Yes,BS RADIOLOGY,10,16,,2.15
+Male,23,RURAL,10,High School,High School,No,No,Master,Mother,44,,95,Sports,No,Yes,No,Individual,Yes,Average,Platform2,,BS SE,2,5,Average,3.45
+Male,20,RURAL,,High School,None,No,Yes,Bachelor,Mother,38,11,82,Gaming,No,No,Yes,Group,No,Good,Platform1,No,BE CIVIL,6,10,Poor,2.26
+Male,21,,14,None,None,No,Yes,High School,Father,56,27,90,Sports,No,No,Yes,Individual,No,Average,Platform5,No,BS SE,5,14,Poor,2.08
+Male,20,URBAN,11,PhD,None,Yes,No,High School,Father,54,27,98,Other,No,,Yes,Group,No,Good,Platform4,No,BS MLT,6,11,Good,2.69
+Male,22,RURAL,5,Master,Bachelor,No,Yes,None,Mother,60,20,71,Sports,No,No,Yes,Individual,No,Good,Platform5,No,,6,12,Good,2.28
+Male,22,,8,None,PhD,No,No,Master,Mother,15,47,94,Other,Yes,Yes,No,Individual,Yes,Average,Platform3,No,BS COMPUTER SCIENCE,1,7,Average,3.39
+Male,24,RURAL,5,PhD,High School,No,No,Master,Father,25,17,63,Gaming,,No,Yes,,No,Average,Platform4,No,BS NURSING,2,7,Average,2.32
+Male,18,URBAN,9,Master,,No,Yes,None,Other,32,2,60,Gaming,Yes,Yes,Yes,Individual,No,Poor,Platform2,Yes,BBA,3,8,Poor,1.84
+Female,22,RURAL,9,Bachelor,Master,No,No,PhD,Mother,46,20,66,Other,Yes,Yes,Yes,Individual,Yes,Poor,Platform4,Yes,,2,16,Poor,3.31
+Female,23,RURAL,4,None,PhD,No,No,High School,Other,9,15,93,Other,Yes,No,Yes,Individual,Yes,Poor,Platform2,,BS COMPUTER SCIENCE,5,7,Poor,2.51
+Male,23,URBAN,9,PhD,Master,Yes,Yes,None,Father,57,10,89,Gaming,No,No,Yes,Individual,No,Poor,Platform1,No,BS MLT,9,15,Good,1.56
+Female,24,RURAL,13,High School,PhD,No,No,None,Other,88,45,81,Other,No,Yes,No,Group,No,Average,Platform2,Yes,B.COM,2,2,Good,2.48
+Female,20,URBAN,,None,Bachelor,No,Yes,Bachelor,Other,10,36,74,Sports,No,No,,Individual,No,Average,Platform3,No,BSC ELECTRICAL ENG,9,20,Poor,2.75
+Female,24,RURAL,6,None,Bachelor,Yes,Yes,None,Mother,33,36,82,Gaming,No,Yes,Yes,Group,No,Good,Platform5,Yes,BS NURSING,2,17,Good,3.04
+Male,21,RURAL,5,PhD,Master,No,,Master,Mother,60,9,87,Gaming,Yes,Yes,No,Individual,No,,Platform4,No,BBA,3,10,Poor,2.05
+Female,18,URBAN,12,None,None,No,Yes,High School,,,27,,Other,No,No,Yes,Individual,Yes,Good,Platform5,No,BS RADIOLOGY,0,6,Poor,2.23
+Female,19,RURAL,2,Bachelor,Master,Yes,No,Bachelor,Mother,64,41,90,Sports,No,Yes,,Group,No,Poor,Platform5,No,BS CARDIOLOGY,0,7,,2.92
+Female,21,URBAN,4,None,High School,No,Yes,PhD,Other,72,46,99,Sports,Yes,Yes,Yes,Group,,Good,Platform5,Yes,BE CIVIL,10,,Average,3.69
+Male,24,RURAL,12,Master,None,No,No,Master,Other,89,14,83,Gaming,No,Yes,Yes,Individual,No,Poor,Platform5,No,BBA,9,10,Average,1.93
+Male,19,URBAN,14,PhD,High School,No,No,None,Father,78,26,84,Other,Yes,No,Yes,Group,Yes,Good,Platform1,Yes,BS CARDIOLOGY,5,15,Poor,2.72
+Female,18,URBAN,7,Bachelor,Master,No,Yes,PhD,Other,50,45,73,Sports,No,Yes,Yes,Group,,Poor,Platform3,Yes,BS MLT,10,15,Average,3.4
+Male,19,RURAL,6,High School,Master,No,Yes,None,Father,76,15,92,Sports,Yes,No,Yes,Group,Yes,Average,Platform3,No,BS COMPUTER SCIENCE,7,18,Average,2.46
+Male,21,,4,,High School,Yes,Yes,Bachelor,Mother,65,49,92,Other,Yes,Yes,,Group,No,Poor,Platform2,Yes,BSC ELECTRICAL ENG,3,13,Good,3.43
+Female,22,RURAL,9,None,Bachelor,Yes,Yes,Bachelor,Other,47,14,,Other,No,Yes,Yes,Individual,No,Poor,Platform2,No,BS NURSING,9,19,Poor,2.21
+Male,24,RURAL,12,PhD,,Yes,No,None,Father,26,7,69,Gaming,No,No,Yes,Individual,No,Good,Platform2,No,BSC ELECTRICAL ENG,9,10,Average,1.64
+,18,RURAL,5,High School,None,No,No,PhD,Father,41,44,97,Sports,No,Yes,Yes,Individual,Yes,Average,,Yes,BS RADIOLOGY,0,13,Good,3.92
+Male,22,RURAL,9,None,Bachelor,No,Yes,PhD,Father,72,9,,Gaming,No,Yes,No,Individual,No,Good,Platform3,No,BS SE,10,3,Poor,1.59
+Female,22,URBAN,5,High School,None,No,No,Bachelor,Other,7,39,83,Gaming,No,Yes,No,Individual,No,Average,Platform3,No,BS HEALTH SCIENCE,5,9,,2.6
+Female,22,RURAL,3,PhD,Bachelor,Yes,No,High School,Mother,54,15,95,Other,Yes,No,No,Group,Yes,Average,Platform2,Yes,BS RADIOLOGY,4,14,Poor,2.73
+,21,RURAL,6,None,PhD,No,No,PhD,Other,11,47,95,Sports,Yes,No,No,Group,No,Poor,Platform1,Yes,BE CIVIL,1,13,Poor,3.17
+Female,24,RURAL,7,Master,None,Yes,Yes,Bachelor,Mother,71,29,94,Other,No,Yes,Yes,Individual,Yes,Poor,Platform5,Yes,BS COMPUTER SCIENCE,0,13,Average,3.51
+Female,23,URBAN,5,Master,,,No,Bachelor,Father,,30,80,Other,No,Yes,No,Individual,No,Poor,Platform3,Yes,BSC ELECTRICAL ENG,0,9,Poor,3.04
+Male,24,URBAN,4,High School,None,No,No,High School,,67,32,65,Gaming,No,No,Yes,Individual,Yes,Good,Platform3,No,BS COMPUTER SCIENCE,0,17,Average,
+Male,20,RURAL,13,None,PhD,No,No,None,Father,57,31,80,Sports,No,No,No,Group,No,Good,Platform4,No,BS COMPUTER SCIENCE,4,5,Average,1.8
+Female,22,RURAL,3,None,Bachelor,No,Yes,PhD,Mother,62,9,66,Other,Yes,No,No,Individual,,Average,Platform3,Yes,BS SE,9,4,Good,2.19
+Male,20,RURAL,13,High School,None,Yes,Yes,High School,Father,75,44,68,Gaming,No,Yes,Yes,Group,No,Good,Platform5,Yes,BBA,,19,Good,3.08
+Female,18,RURAL,12,Bachelor,PhD,No,Yes,Bachelor,Father,12,3,60,Sports,,,No,Group,No,Poor,Platform2,Yes,,,4,Poor,1.56
+Female,19,RURAL,,High School,High School,No,Yes,Master,Mother,68,16,85,Other,No,Yes,No,Group,No,Good,Platform4,No,BS HEALTH SCIENCE,8,17,Good,2.58
+Female,22,URBAN,5,PhD,Master,No,No,None,Mother,,29,98,,No,,Yes,Group,Yes,Good,,Yes,BS SE,7,9,Poor,2.81
+Male,23,URBAN,6,Master,Bachelor,No,Yes,PhD,Father,29,35,67,Gaming,No,No,No,Group,No,Average,Platform1,Yes,BS MLT,1,16,,2.87
+Male,20,,6,None,PhD,No,No,None,Mother,86,,69,Gaming,Yes,No,,Individual,No,Poor,Platform5,No,BS MLT,8,17,Poor,2.06
+Male,18,RURAL,,High School,Bachelor,No,,None,Other,83,43,66,Other,Yes,No,No,Group,Yes,Good,Platform3,No,BS CARDIOLOGY,9,0,Good,1.88
+Female,21,URBAN,11,Master,Master,No,Yes,Bachelor,Other,68,39,89,Gaming,Yes,No,No,Individual,No,Good,Platform2,No,B.COM,6,16,Poor,2.39
+Female,23,URBAN,,High School,Master,Yes,No,PhD,Mother,46,38,65,Gaming,No,No,Yes,Group,No,Average,Platform5,No,BE CIVIL,4,9,Good,2.21
+Female,24,URBAN,5,Bachelor,None,Yes,Yes,,Other,39,25,96,Gaming,No,,No,Individual,No,Average,Platform4,Yes,BS NURSING,10,4,Poor,2.32
+Female,23,RURAL,9,PhD,PhD,Yes,Yes,Master,Father,64,6,89,Sports,No,Yes,No,Group,Yes,Average,Platform5,No,BS SE,8,5,Poor,2.18
+Male,18,URBAN,14,High School,None,Yes,,None,Mother,37,15,99,Other,No,Yes,No,Group,Yes,Poor,Platform4,Yes,BE CIVIL,9,18,Good,2.67
+Male,21,RURAL,6,None,Master,Yes,No,Master,Other,27,35,79,Other,No,Yes,,Group,Yes,,Platform4,Yes,B.COM,6,16,Poor,3.12
+Female,19,RURAL,13,,PhD,No,No,Master,Mother,65,12,82,Gaming,Yes,No,No,Group,No,,Platform5,Yes,B.COM,4,,Good,2.13
+Female,19,RURAL,14,Bachelor,PhD,Yes,No,None,Other,76,17,63,Gaming,No,No,No,Group,No,Good,,Yes,B.COM,7,20,Good,1.65
+Male,23,URBAN,,PhD,Bachelor,,No,High School,Mother,81,32,67,Sports,,No,No,Group,No,Poor,,Yes,BS NURSING,0,14,Good,2.82
+Male,20,RURAL,12,High School,None,No,Yes,PhD,Father,82,13,89,Other,Yes,Yes,No,Group,No,Average,Platform3,Yes,BS RADIOLOGY,4,20,Average,
+Female,21,URBAN,2,Master,None,Yes,No,Master,Father,28,1,80,Sports,Yes,,No,Individual,Yes,Poor,Platform1,Yes,BBA,3,2,Good,2.61
+Female,21,URBAN,2,None,PhD,Yes,No,None,Mother,77,35,68,Other,No,Yes,Yes,Individual,Yes,Poor,,Yes,BBA,4,8,Average,
+Female,23,URBAN,2,PhD,Master,Yes,Yes,PhD,Other,72,1,78,Other,No,Yes,Yes,Individual,Yes,Poor,Platform4,No,BS RADIOLOGY,10,14,Poor,2.72
+Female,19,URBAN,6,PhD,High School,No,Yes,None,Other,59,17,82,Sports,No,Yes,No,Group,No,Poor,Platform3,No,,9,6,Poor,1.64
+Female,23,URBAN,13,None,High School,No,No,Master,Mother,20,5,82,Sports,No,No,,Individual,Yes,Average,Platform4,Yes,BS SE,9,15,Average,2.28
+Male,23,RURAL,7,High School,High School,Yes,Yes,High School,Other,86,37,81,Gaming,No,Yes,No,Group,No,Poor,,Yes,BBA,6,0,Average,2.52
+Female,18,URBAN,7,PhD,None,No,Yes,Master,Other,50,4,99,Other,Yes,,Yes,Individual,Yes,Poor,Platform5,Yes,BS NURSING,,13,Poor,2.83
+Female,18,RURAL,11,None,Bachelor,,No,High School,Mother,74,6,94,Gaming,Yes,No,No,Group,No,Poor,Platform4,Yes,B.COM,3,12,Average,1.85
+Female,20,RURAL,4,Master,PhD,No,Yes,High School,Other,16,31,94,Other,Yes,No,Yes,Group,Yes,Good,,Yes,BS RADIOLOGY,2,10,Good,3.39
+Female,19,RURAL,12,Master,None,No,Yes,,Father,61,43,76,Gaming,No,Yes,No,Group,No,Average,Platform1,No,BSC ELECTRICAL ENG,8,10,Good,2.18
+Female,24,RURAL,2,Master,Bachelor,Yes,No,Master,Other,62,21,73,Gaming,No,Yes,No,Individual,No,Poor,Platform5,Yes,B.COM,5,11,Good,2.61
+Male,19,RURAL,9,Bachelor,None,Yes,Yes,None,Mother,,49,88,Other,No,No,No,Group,No,Good,Platform4,No,BS SE,0,9,Average,2.42
+Female,22,RURAL,3,Bachelor,None,Yes,No,PhD,Mother,63,46,73,Gaming,No,No,Yes,Group,Yes,Average,Platform5,No,BS MLT,6,12,Average,3.24
+Female,23,URBAN,13,Bachelor,Bachelor,No,No,PhD,Mother,56,16,93,Sports,Yes,Yes,Yes,Group,Yes,Poor,Platform3,No,BS COMPUTER SCIENCE,7,8,Good,2.64
+Male,20,RURAL,11,,,No,No,Master,Father,27,38,86,Sports,No,Yes,Yes,Individual,No,Average,Platform5,Yes,BS HEALTH SCIENCE,8,16,Good,3.66
+Male,19,URBAN,11,Bachelor,Bachelor,No,No,Bachelor,Other,44,42,,Gaming,No,No,No,Individual,No,Average,Platform1,Yes,BS HEALTH SCIENCE,2,7,Poor,2.32
+Female,22,URBAN,12,High School,PhD,No,No,High School,Mother,60,29,70,Other,No,No,No,Individual,No,Average,Platform2,Yes,BS NURSING,8,10,Average,1.89
+Male,21,URBAN,14,None,PhD,No,No,None,Mother,68,28,83,Other,Yes,No,No,Group,Yes,Poor,Platform4,No,BS NURSING,6,14,Average,2.32
+Male,24,URBAN,2,Master,PhD,Yes,No,None,Mother,47,46,81,Other,No,No,No,Group,Yes,Poor,Platform2,No,BS HEALTH SCIENCE,4,20,Good,3.04
+Female,23,URBAN,9,PhD,None,Yes,Yes,High School,Other,74,34,87,Gaming,Yes,Yes,No,Group,No,Average,Platform1,No,BSC ELECTRICAL ENG,8,0,Average,1.7
+Female,22,RURAL,14,None,None,Yes,No,Master,Other,44,12,81,Sports,Yes,Yes,Yes,Group,No,Good,Platform2,Yes,BSC ELECTRICAL ENG,10,0,,1.87
+,19,RURAL,8,PhD,Master,No,No,PhD,Other,10,28,91,Gaming,No,No,Yes,Group,Yes,Average,Platform3,No,BBA,5,11,Good,2.98
+Female,18,URBAN,9,PhD,None,No,Yes,PhD,Other,45,35,98,Sports,No,Yes,Yes,Individual,Yes,Poor,Platform2,Yes,BE CIVIL,9,5,Good,3.15
+Female,20,URBAN,12,Master,Bachelor,Yes,Yes,High School,Other,40,25,78,Gaming,Yes,No,Yes,Group,No,Poor,Platform5,Yes,BS NURSING,4,0,Average,1.95
+Male,21,URBAN,11,Bachelor,Master,No,No,PhD,Other,,14,87,Gaming,Yes,Yes,No,,No,Poor,Platform1,No,BS RADIOLOGY,7,,Average,2.41
+,24,,2,PhD,,No,No,None,Mother,29,,86,Other,Yes,Yes,No,Individual,Yes,Poor,Platform4,No,BS CARDIOLOGY,0,2,Average,2.17
+Male,23,RURAL,13,None,PhD,No,Yes,Master,Father,73,25,83,Sports,Yes,No,Yes,Individual,No,Average,Platform1,Yes,BS COMPUTER SCIENCE,4,18,Average,
+Female,18,URBAN,13,Bachelor,Master,No,No,Bachelor,Mother,64,2,67,Gaming,No,No,No,Group,Yes,Good,Platform5,Yes,B.COM,8,0,Average,1.23
+Male,20,URBAN,11,Master,Bachelor,No,No,Bachelor,Father,34,36,73,Sports,No,No,,,No,Average,Platform1,No,BS SE,1,,Good,2.41
+Male,21,URBAN,6,PhD,Bachelor,No,,Master,Mother,65,19,80,Gaming,No,Yes,No,Group,No,Poor,Platform2,No,BSC ELECTRICAL ENG,1,11,Good,2.41
+Male,21,RURAL,14,High School,High School,Yes,No,High School,Mother,35,47,90,Sports,No,No,Yes,Individual,Yes,Average,Platform2,,BS MLT,7,18,Average,3.14
+Female,23,URBAN,10,Master,,Yes,Yes,High School,,67,41,95,Gaming,No,No,Yes,Individual,Yes,Good,Platform3,Yes,BS RADIOLOGY,,,Average,2.54
+Male,23,RURAL,7,High School,None,No,No,Master,Mother,54,2,70,Sports,No,Yes,Yes,Individual,No,Good,Platform5,Yes,BE CIVIL,8,,Poor,2.33
+Female,19,URBAN,4,Master,PhD,Yes,No,PhD,Father,40,43,95,Other,Yes,Yes,No,Individual,Yes,Average,Platform5,No,BS HEALTH SCIENCE,7,5,Poor,3.13
+Female,22,RURAL,14,PhD,None,No,Yes,PhD,Father,32,28,65,Sports,No,Yes,No,Group,Yes,Good,Platform4,Yes,BS RADIOLOGY,5,4,Poor,2.61
+Female,23,URBAN,13,PhD,None,No,Yes,High School,Father,81,16,97,Gaming,Yes,Yes,Yes,Individual,Yes,,Platform4,No,BS RADIOLOGY,5,3,Poor,2.35
+Female,18,RURAL,13,Master,Bachelor,No,Yes,None,Mother,79,16,82,Sports,No,Yes,Yes,Individual,No,Average,Platform4,Yes,BS CARDIOLOGY,9,13,Average,2.04
+Male,23,URBAN,13,Bachelor,High School,No,Yes,PhD,Other,88,42,93,Gaming,No,No,No,,Yes,Good,Platform5,,,4,11,Average,2.41
+Female,22,URBAN,7,Master,None,No,Yes,High School,Mother,14,14,78,Other,Yes,No,Yes,Individual,No,Poor,Platform3,No,BS COMPUTER SCIENCE,8,12,Poor,2.2
+Male,19,RURAL,6,PhD,Bachelor,,Yes,High School,Mother,58,7,60,Other,Yes,No,No,Individual,No,Average,Platform4,No,BS MLT,1,9,Good,1.69
+Female,19,RURAL,3,Master,None,No,Yes,None,Father,36,33,91,,No,Yes,Yes,Group,No,Good,Platform2,No,BS MLT,7,11,Average,3.08
+Male,18,URBAN,14,None,,No,No,None,Father,46,29,90,Sports,No,No,Yes,Group,No,Average,Platform4,Yes,BS CARDIOLOGY,1,13,Good,2.5
+Female,24,URBAN,14,Bachelor,High School,Yes,Yes,High School,Other,48,7,62,Gaming,Yes,Yes,No,Group,Yes,Good,Platform4,No,BS SE,9,5,Poor,1.71
+Female,21,URBAN,,Master,Master,,Yes,None,Father,27,15,81,Sports,No,Yes,Yes,,Yes,Good,Platform5,Yes,BBA,5,5,Average,2.93
+Female,20,RURAL,4,Master,Master,Yes,Yes,None,Other,40,32,78,Sports,Yes,Yes,No,Individual,,Average,Platform1,Yes,BS RADIOLOGY,1,20,Average,2.89
+Female,24,RURAL,7,PhD,PhD,Yes,No,PhD,Mother,,,76,Other,Yes,Yes,Yes,Individual,Yes,Average,Platform1,Yes,BBA,3,20,Average,3.59
+Female,21,RURAL,6,High School,None,No,Yes,Master,Father,83,34,95,Gaming,No,No,Yes,Group,Yes,Average,Platform2,No,BE CIVIL,0,19,Average,3.07
+Female,22,RURAL,14,Bachelor,Bachelor,Yes,,Bachelor,Mother,54,47,72,Sports,No,Yes,No,Individual,No,Poor,Platform4,Yes,BS COMPUTER SCIENCE,2,9,Good,2.48
+Female,24,URBAN,4,High School,None,Yes,Yes,Master,,9,27,68,Sports,Yes,No,Yes,Group,Yes,Poor,Platform2,No,BS RADIOLOGY,10,5,Good,2.78
+,23,RURAL,9,High School,PhD,Yes,Yes,Bachelor,Other,60,33,86,Sports,Yes,No,,Group,Yes,Average,Platform2,No,BSC ELECTRICAL ENG,7,,Poor,2.09
+Male,18,RURAL,,High School,None,Yes,No,Master,Other,76,47,95,Gaming,Yes,No,No,Individual,Yes,Good,Platform4,Yes,BS SE,,13,Average,3.06
+Female,24,URBAN,7,None,Bachelor,No,No,Master,Mother,26,32,69,Gaming,Yes,Yes,No,Individual,Yes,Average,Platform2,Yes,BS MLT,4,3,,2.78
+Female,19,RURAL,,Master,Master,No,Yes,,Other,7,8,91,Sports,Yes,Yes,Yes,Individual,Yes,Good,Platform2,No,BBA,9,19,Poor,3.21
+Female,23,URBAN,8,Bachelor,PhD,Yes,Yes,None,Other,24,50,60,Sports,Yes,No,No,Group,Yes,Good,Platform3,Yes,BS RADIOLOGY,,14,Good,3.31
+Male,21,,6,None,None,No,Yes,Bachelor,Mother,65,40,80,Sports,No,No,No,Individual,,Average,Platform2,Yes,BE CIVIL,2,,Good,3.24
+Male,18,URBAN,11,None,None,No,Yes,Bachelor,Mother,43,2,88,Other,No,Yes,Yes,Individual,No,Average,Platform1,Yes,BS RADIOLOGY,3,2,Average,2.01
+Male,20,URBAN,10,None,None,Yes,No,High School,Other,19,6,98,Other,No,No,Yes,Group,Yes,Average,Platform3,Yes,BS RADIOLOGY,6,10,,2.13
+Male,23,URBAN,2,None,Master,No,No,None,Father,51,38,96,,Yes,Yes,Yes,,Yes,Average,Platform5,No,BS HEALTH SCIENCE,8,7,Average,3.11
+Female,24,URBAN,12,Master,None,Yes,Yes,Bachelor,Other,86,28,90,Sports,Yes,No,Yes,Group,Yes,Poor,Platform4,Yes,BSC ELECTRICAL ENG,5,4,Good,2.58
+Female,19,URBAN,12,,Master,No,,None,Father,44,39,93,Other,,No,Yes,Individual,Yes,Average,Platform5,Yes,BSC ELECTRICAL ENG,6,6,Good,2.71
+Female,21,URBAN,13,,Master,Yes,Yes,PhD,Mother,31,46,95,Sports,,Yes,No,Group,Yes,Average,Platform4,Yes,BS COMPUTER SCIENCE,1,4,Poor,3.49
+Male,,RURAL,2,PhD,None,No,Yes,None,Mother,52,24,86,Gaming,Yes,Yes,Yes,Individual,Yes,Good,Platform3,No,BS COMPUTER SCIENCE,0,8,Good,2.97
+Female,22,URBAN,4,Bachelor,PhD,Yes,No,High School,Mother,59,13,78,Gaming,Yes,No,Yes,Group,No,Poor,Platform5,Yes,BBA,0,0,Average,2.2
+Female,20,URBAN,8,High School,,Yes,No,Master,Mother,67,10,84,Other,Yes,Yes,Yes,Group,Yes,Good,Platform1,No,BS NURSING,1,15,Good,2.83
+Male,,RURAL,14,Master,Master,Yes,Yes,PhD,Mother,14,,84,,No,Yes,No,Group,No,Good,Platform2,No,BS HEALTH SCIENCE,10,18,Average,2.61
+Female,20,RURAL,14,None,PhD,No,Yes,High School,Mother,30,,74,Gaming,No,No,No,Individual,Yes,Good,Platform4,No,BS CARDIOLOGY,10,3,Average,2.01
+Male,20,RURAL,3,Bachelor,None,Yes,Yes,Master,Mother,27,14,88,Sports,Yes,No,Yes,Group,Yes,Average,Platform5,Yes,BS COMPUTER SCIENCE,5,15,Poor,3.1
+Female,24,RURAL,7,Bachelor,PhD,No,,PhD,Father,76,24,79,,No,Yes,No,Individual,No,Poor,Platform4,No,,10,14,Poor,2.38
+Female,22,RURAL,11,None,PhD,No,No,Bachelor,Other,14,25,62,,No,Yes,Yes,Individual,,Good,Platform2,No,BSC ELECTRICAL ENG,7,10,Poor,2.61
+Male,21,,7,High School,Bachelor,No,No,None,Other,43,10,89,Sports,Yes,No,No,Individual,,Good,Platform3,No,BSC ELECTRICAL ENG,7,18,Average,1.9
+Male,23,RURAL,4,Master,None,No,Yes,Bachelor,Mother,16,5,61,Sports,No,Yes,No,Group,Yes,Poor,Platform3,Yes,BE CIVIL,0,4,Average,2.49
+Female,21,URBAN,5,Master,Bachelor,No,Yes,Bachelor,Mother,76,38,81,,Yes,Yes,Yes,Individual,Yes,Good,,Yes,BS RADIOLOGY,,18,Good,3.49
+Male,24,URBAN,13,Bachelor,PhD,No,No,Bachelor,Mother,32,12,77,Gaming,No,No,No,Group,No,Average,Platform1,No,BS RADIOLOGY,4,14,Good,2.02
+Female,21,RURAL,5,Bachelor,Master,Yes,,Bachelor,Other,40,23,85,Other,No,No,No,Group,No,Good,Platform3,Yes,BS HEALTH SCIENCE,3,0,,2.21
+Female,21,URBAN,5,Bachelor,PhD,Yes,Yes,Bachelor,Father,71,25,74,Sports,No,Yes,No,Individual,Yes,Average,Platform4,Yes,BS COMPUTER SCIENCE,8,5,Average,2.62
+Male,21,URBAN,10,High School,Bachelor,Yes,No,High School,Father,,38,82,Sports,No,Yes,Yes,Group,No,Poor,Platform4,Yes,BSC ELECTRICAL ENG,7,4,Average,2.98
+Female,18,RURAL,7,None,,No,Yes,None,Father,80,41,75,Other,Yes,No,Yes,Individual,No,Average,Platform4,Yes,BSC ELECTRICAL ENG,7,8,Average,2.53
+Male,24,URBAN,13,Master,Bachelor,No,Yes,Bachelor,Other,9,41,78,Gaming,No,No,,Individual,Yes,Poor,Platform4,No,BS RADIOLOGY,4,12,Good,2.87
+Female,22,RURAL,11,Master,Bachelor,No,No,High School,Father,23,,71,Gaming,Yes,Yes,No,Group,No,Poor,Platform2,Yes,BS RADIOLOGY,2,12,Average,2.84
+Male,20,RURAL,7,None,None,Yes,No,Bachelor,Mother,68,47,84,Gaming,No,Yes,No,Group,Yes,Average,Platform3,No,BS CARDIOLOGY,2,5,Good,2.87
+Male,,RURAL,3,None,PhD,No,Yes,High School,Mother,65,34,65,Sports,No,Yes,No,Group,Yes,Good,Platform5,Yes,BS RADIOLOGY,2,9,Good,2.93
+Female,21,RURAL,10,PhD,Bachelor,No,Yes,PhD,Other,32,,66,Gaming,Yes,Yes,No,Group,No,Good,Platform3,No,BS CARDIOLOGY,4,1,Poor,1.84
+Male,20,URBAN,12,Master,None,Yes,Yes,PhD,Father,49,34,72,Other,No,No,Yes,Group,Yes,Good,Platform1,No,BS RADIOLOGY,10,16,Good,2.62
+Male,20,URBAN,14,PhD,Master,No,Yes,High School,,87,8,72,Gaming,Yes,Yes,Yes,Individual,,Good,Platform4,No,B.COM,1,15,Good,2.29
+Male,18,RURAL,9,Master,PhD,No,Yes,Bachelor,Other,24,13,97,Sports,No,Yes,No,Individual,No,Good,Platform3,No,,2,6,Good,2.09
+Female,22,URBAN,9,PhD,None,Yes,Yes,Master,Father,47,10,78,Sports,Yes,No,Yes,Group,Yes,Average,Platform4,Yes,BS SE,4,2,Average,2.67
+,19,RURAL,3,None,None,No,No,PhD,Father,67,47,69,Sports,No,No,No,Individual,Yes,Poor,Platform4,Yes,BS COMPUTER SCIENCE,4,2,,2.96
+Male,23,URBAN,,,Master,Yes,,High School,Mother,88,30,68,Sports,No,No,Yes,Individual,No,,Platform2,,BS NURSING,10,0,Good,1.74
+Male,18,URBAN,2,None,Bachelor,No,Yes,High School,Father,48,13,100,Gaming,Yes,No,Yes,Group,No,,Platform2,Yes,BSC ELECTRICAL ENG,2,18,Poor,2.93
+Male,19,RURAL,11,PhD,Bachelor,No,No,Bachelor,Father,45,49,68,Gaming,No,No,Yes,Individual,Yes,Good,Platform4,Yes,BS MLT,7,12,Average,3.13
+Male,18,RURAL,6,None,Master,Yes,,PhD,Mother,83,36,60,Other,Yes,Yes,Yes,Individual,No,Good,Platform3,No,BBA,10,15,Average,2.56
+Male,22,URBAN,8,Master,None,No,Yes,Bachelor,Mother,77,35,92,Sports,Yes,No,No,Individual,No,Good,Platform5,No,BS NURSING,3,10,Poor,2.57
+Female,22,URBAN,2,None,PhD,Yes,No,High School,Mother,31,2,72,Gaming,No,No,Yes,Individual,No,Average,Platform2,Yes,BS HEALTH SCIENCE,2,17,Poor,
+Female,19,URBAN,13,,PhD,No,Yes,None,Mother,40,18,80,Gaming,No,Yes,Yes,Individual,Yes,Poor,Platform5,No,BS NURSING,1,8,Good,2.05
+Male,24,URBAN,5,PhD,None,,Yes,Master,Father,85,44,75,Sports,Yes,Yes,No,Individual,Yes,Average,Platform5,Yes,BSC ELECTRICAL ENG,7,16,Poor,3.61
+Female,21,RURAL,5,High School,High School,Yes,Yes,PhD,Other,76,49,83,Gaming,Yes,No,No,Individual,No,Poor,Platform4,No,BS HEALTH SCIENCE,0,6,Poor,2.33
+Male,23,URBAN,6,None,None,No,No,Bachelor,Other,,10,,Gaming,Yes,Yes,No,Individual,No,Good,Platform2,No,BS MLT,10,9,Good,1.79
+Male,21,URBAN,12,Master,Bachelor,No,No,None,Other,44,17,83,Sports,Yes,Yes,No,Individual,Yes,Good,Platform4,No,BSC ELECTRICAL ENG,,6,Poor,2.17
+Male,21,URBAN,3,Master,,Yes,Yes,None,Mother,18,4,69,Other,Yes,No,,Individual,No,Good,Platform2,Yes,BS COMPUTER SCIENCE,4,5,Average,1.74
+Female,24,RURAL,14,Bachelor,None,Yes,No,High School,Father,32,42,94,Other,Yes,No,Yes,Individual,Yes,Average,Platform1,Yes,BS MLT,9,3,Poor,2.66
+Female,19,RURAL,12,Bachelor,PhD,No,Yes,Bachelor,Other,23,23,92,Other,No,No,Yes,Individual,,Poor,Platform3,No,BS COMPUTER SCIENCE,5,19,Good,2.31
+Female,21,URBAN,2,High School,PhD,No,No,PhD,Father,68,48,66,Other,No,No,,Group,Yes,Poor,Platform1,No,BS CARDIOLOGY,4,1,Poor,3.05
+Male,20,URBAN,6,,,No,Yes,None,Father,30,21,87,Other,Yes,Yes,Yes,Group,No,,,Yes,BS RADIOLOGY,9,20,Average,
+Male,20,RURAL,8,None,None,Yes,Yes,None,Mother,57,25,95,Gaming,Yes,No,Yes,Group,Yes,Average,Platform3,Yes,BS RADIOLOGY,3,2,Average,2.55
+Male,22,URBAN,10,Bachelor,High School,No,No,Bachelor,Mother,16,34,79,Gaming,Yes,Yes,Yes,Individual,Yes,Poor,Platform3,No,BS COMPUTER SCIENCE,,2,Poor,2.92
+Female,19,URBAN,4,PhD,None,No,No,PhD,,49,21,98,Gaming,Yes,Yes,No,Individual,Yes,Poor,Platform2,Yes,BSC ELECTRICAL ENG,1,18,Good,3.43
+Female,21,URBAN,14,High School,High School,Yes,No,Bachelor,Father,48,22,61,Other,Yes,No,No,Group,No,Average,Platform2,Yes,BS MLT,5,3,Good,1.58
+Female,20,RURAL,3,None,Master,Yes,No,Master,Father,33,37,93,Gaming,,Yes,Yes,Individual,No,Average,Platform3,Yes,BS MLT,3,2,Average,3.08
+,21,,,None,Bachelor,Yes,No,PhD,Father,49,45,97,Other,,No,Yes,Individual,No,Poor,Platform1,,BE CIVIL,5,11,Average,3.26
+,23,URBAN,3,None,,Yes,Yes,Master,Father,69,13,93,,Yes,Yes,Yes,Group,No,Poor,Platform5,Yes,BSC ELECTRICAL ENG,7,11,Poor,2.96
+Female,18,URBAN,2,,Master,Yes,No,PhD,Father,18,27,93,Gaming,No,No,Yes,Individual,No,Average,Platform3,No,BS CARDIOLOGY,10,1,Poor,2.59
+Male,21,RURAL,3,PhD,None,No,No,Bachelor,Mother,78,3,63,Sports,No,Yes,Yes,,Yes,Average,Platform5,,BS COMPUTER SCIENCE,3,0,Good,2.43
+Male,22,RURAL,8,None,PhD,No,,Bachelor,Father,,23,82,Gaming,No,No,No,Individual,Yes,Average,Platform1,Yes,BE CIVIL,8,17,Average,2.79
