@@ -12,7 +12,7 @@ model = joblib.load("linear_regression.joblib")
 @app.route("/")
 @app.route("/home")
 def home():
-    return render_template("home.html", title="Students Performance Prediction Model")
+    return render_template("home.html")
 
 @app.route("/predict", methods=["GET", "POST"])
 def predict():

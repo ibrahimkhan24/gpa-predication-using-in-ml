@@ -1,150 +1,179 @@
 {% extends "layout.html" %}
 
 {% block content %}
+<style>
+    .form-container {
+        max-width: 600px;
+        margin: 0 auto;
+    }
+    .form-row {
+        display: flex;
+        justify-content: space-between;
+        margin-bottom: 15px;
+    }
+    .form-row div {
+        width: 48%; /* Adjusts the width of each input block */
+    }
+    .custom-label {
+        color: black; /* Change to your desired label color */
+        /*font-weight: bold;*/
+    }
+</style>
+
 <div class="form-container">
+    <form action="" method="post">
+        {{ form.hidden_tag() }}
 
- <form action="" method="post">
-    {{ form.hidden_tag() }}
-    <div>
-         {{ form.Family_size.label }}
-         {{ form.Family_size }}
-         {% if form.Family_size.errors %}
-           {% for error in form.Family_size.errors %}
-              <div>{{ error}}</div>
-           {% endfor %}
-         {% endif %}
-    </div>
-    <br>
-    <div>
-        {{ form.Parent_Edu_level.label }}
-        {{ form.Parent_Edu_level }}
-        {% if form.Parent_Edu_level.errors %}
-          {% for error in form.Parent_Edu_level.errors %}
-             <div>{{ error}}</div>
-          {% endfor %}
-        {% endif %}
-   </div>
-   <br>
-   <div>
-    {{ form.Guardian.label }}
-    {{ form.Guardian }}
-    {% if form.Guardian.errors %}
-      {% for error in form.Guardian.errors %}
-         <div>{{ error}}</div>
-      {% endfor %}
-    {% endif %}
-</div>
-<br>
-<div>
-   {{ form.Travel_time.label }}
-   {{ form.Travel_time }}
-   {% if form.Travel_time.errors %}
-     {% for error in form.Travel_time.errors %}
-        <div>{{ error}}</div>
-     {% endfor %}
-   {% endif %}
-</div>
-<br>
-<div>
-   {{ form.Std_hr_per_week.label }}
-   {{ form.Std_hr_per_week }}
-   {% if form.Std_hr_per_week.errors %}
-     {% for error in form.Std_hr_per_week.errors %}
-        <div>{{ error}}</div>
-     {% endfor %}
-   {% endif %}
-</div>
-<br>
-<div>
-   {{ form.Attendance.label }}
-   {{ form.Attendance }}
-   {% if form.Attendance.errors %}
-     {% for error in form.Attendance.errors %}
-        <div>{{ error}}</div>
-     {% endfor %}
-   {% endif %}
-</div>
-<br>
-<div>
-    {{ form.Activities.label }}
-    {{ form.Activities }}
-    {% if form.Activities.errors %}
-      {% for error in form.Activities.errors %}
-         <div>{{ error}}</div>
-      {% endfor %}
-    {% endif %}
-</div>
-<br>
-<div>
-    {{ form.Internet_access.label }}
-    {{ form.Internet_access }}
-    {% if form.Internet_access.errors %}
-      {% for error in form.Internet_access.errors %}
-         <div>{{ error}}</div>
-      {% endfor %}
-    {% endif %}
-</div>
-<br>
-<div>
-    {{ form.Family_support.label }}
-    {{ form.Family_support }}
-    {% if form.Family_support.errors %}
-      {% for error in form.Family_support.errors %}
-         <div>{{ error}}</div>
-      {% endfor %}
-    {% endif %}
-</div>
-<br>
-<div>
-    {{ form.Extra_tutor.label }}
-    {{ form.Extra_tutor }}
-    {% if form.Extra_tutor.errors %}
-      {% for error in form.Extra_tutor.errors %}
-         <div>{{ error}}</div>
-      {% endfor %}
-    {% endif %}
-</div>
-<br>
-<div>
-    {{ form.Parent_relationship_with_teacher.label }}
-    {{ form.Parent_relationship_with_teacher }}
-    {% if form.Parent_relationship_with_teacher.errors %}
-      {% for error in form.Parent_relationship_with_teacher.errors %}
-         <div>{{ error}}</div>
-      {% endfor %}
-    {% endif %}
-</div>
-<br>
-<div>
-    {{ form.interest_in_field.label }}
-    {{ form.interest_in_field }}
-    {% if form.interest_in_field.errors %}
-      {% for error in form.interest_in_field.errors %}
-         <div>{{ error}}</div>
-      {% endfor %}
-    {% endif %}
-</div>
-<br>
-<div>
-    {{ form.quizzes_per_semester.label }}
-    {{ form.quizzes_per_semester }}
-    {% if form.quizzes_per_semester.errors %}
-      {% for error in form.quizzes_per_semester.errors %}
-         <div>{{ error}}</div>
-      {% endfor %}
-    {% endif %}
-</div>
-<br>
-<div>{{ form.submit() }}</div>
-<br>
-<div>
-     {{ output }}
-</div>
-<br>
-<div>
-    <p><a href="{{ url_for('home') }}"> Home</a></p>
-</div>
+        <div class="form-row">
+            <div>
+                {{ form.Family_size.label(class='custom-label') }}
+                {{ form.Family_size }}
+                {% if form.Family_size.errors %}
+                {% for error in form.Family_size.errors %}
+                <div>{{ error }}</div>
+                {% endfor %}
+                {% endif %}
+            </div>
+            <div>
+                {{ form.Parent_Edu_level.label(class='custom-label') }}
+                {{ form.Parent_Edu_level }}
+                {% if form.Parent_Edu_level.errors %}
+                {% for error in form.Parent_Edu_level.errors %}
+                <div>{{ error }}</div>
+                {% endfor %}
+                {% endif %}
+            </div>
+        </div>
 
- </form>
+        <div class="form-row">
+            <div>
+                {{ form.Guardian.label(class='custom-label') }}
+                {{ form.Guardian }}
+                {% if form.Guardian.errors %}
+                {% for error in form.Guardian.errors %}
+                <div>{{ error }}</div>
+                {% endfor %}
+                {% endif %}
+            </div>
+            <div>
+                {{ form.Travel_time.label(class='custom-label') }}
+                {{ form.Travel_time }}
+                {% if form.Travel_time.errors %}
+                {% for error in form.Travel_time.errors %}
+                <div>{{ error }}</div>
+                {% endfor %}
+                {% endif %}
+            </div>
+        </div>
 
+        <div class="form-row">
+            <div>
+                {{ form.Std_hr_per_week.label(class='custom-label') }}
+                {{ form.Std_hr_per_week }}
+                {% if form.Std_hr_per_week.errors %}
+                {% for error in form.Std_hr_per_week.errors %}
+                <div>{{ error }}</div>
+                {% endfor %}
+                {% endif %}
+            </div>
+            <div>
+                {{ form.Attendance.label(class='custom-label') }}
+                {{ form.Attendance }}
+                {% if form.Attendance.errors %}
+                {% for error in form.Attendance.errors %}
+                <div>{{ error }}</div>
+                {% endfor %}
+                {% endif %}
+            </div>
+        </div>
+
+        <div class="form-row">
+            <div>
+                {{ form.Activities.label(class='custom-label') }}
+                {{ form.Activities }}
+                {% if form.Activities.errors %}
+                {% for error in form.Activities.errors %}
+                <div>{{ error }}</div>
+                {% endfor %}
+                {% endif %}
+            </div>
+            <div>
+                {{ form.Internet_access.label(class='custom-label') }}
+                {{ form.Internet_access }}
+                {% if form.Internet_access.errors %}
+                {% for error in form.Internet_access.errors %}
+                <div>{{ error }}</div>
+                {% endfor %}
+                {% endif %}
+            </div>
+        </div>
+
+        <div class="form-row">
+            <div>
+                {{ form.Family_support.label(class='custom-label') }}
+                {{ form.Family_support }}
+                {% if form.Family_support.errors %}
+                {% for error in form.Family_support.errors %}
+                <div>{{ error }}</div>
+                {% endfor %}
+                {% endif %}
+            </div>
+            <div>
+                {{ form.Extra_tutor.label(class='custom-label') }}
+                {{ form.Extra_tutor }}
+                {% if form.Extra_tutor.errors %}
+                {% for error in form.Extra_tutor.errors %}
+                <div>{{ error }}</div>
+                {% endfor %}
+                {% endif %}
+            </div>
+        </div>
+
+        <div class="form-row">
+            <div>
+                {{ form.Parent_relationship_with_teacher.label(class='custom-label') }}
+                {{ form.Parent_relationship_with_teacher }}
+                {% if form.Parent_relationship_with_teacher.errors %}
+                {% for error in form.Parent_relationship_with_teacher.errors %}
+                <div>{{ error }}</div>
+                {% endfor %}
+                {% endif %}
+            </div>
+            <div>
+                {{ form.interest_in_field.label(class='custom-label') }}
+                {{ form.interest_in_field }}
+                {% if form.interest_in_field.errors %}
+                {% for error in form.interest_in_field.errors %}
+                <div>{{ error }}</div>
+                {% endfor %}
+                {% endif %}
+            </div>
+        </div>
+
+        <div class="form-row">
+            <div>
+                {{ form.quizzes_per_semester.label(class='custom-label') }}
+                {{ form.quizzes_per_semester }}
+                {% if form.quizzes_per_semester.errors %}
+                {% for error in form.quizzes_per_semester.errors %}
+                <div>{{ error }}</div>
+                {% endfor %}
+                {% endif %}
+            </div>
+        </div>
+
+        <div class="form-row">
+            <div>{{ form.submit(class='submit-btn') }}</div>
+        </div>
+
+        <br>
+        <div>
+            {{ output }}
+        </div>
+        <br>
+        <div>
+            <p><a href="{{ url_for('home') }}"> Home</a></p>
+        </div>
+    </form>
+</div>
 {% endblock content %}

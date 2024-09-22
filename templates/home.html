@@ -1,10 +1,46 @@
 {% extends "layout.html" %}
 
 {% block content %}
- <div>
-   <div class="home-content"></div>
-    <h2>This is the GPA Prediction based on Machine Learning</h2>
-    <a href="{{ url_for('predict') }}">Predict GPA</a>
- </div>
-{% endblock content %}
+<style>
+    body {
+        background: linear-gradient(135deg, #66a6ff, #89f7fe);
+        height: 100vh;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        font-family: Arial, sans-serif;
+    }
+    .container-home {
+        text-align: center;
+        background: rgb(213, 220, 224);
+        padding: 30px;
+        border-radius: 10px;
+        box-shadow: 0 10px 15px rgba(0, 0, 0, 0.1);
+    }
+    h1 {
+        color: #003366;
+        margin-bottom: 20px;
+    }
+    p {
+        color: #555;
+        margin-bottom: 20px;
+    }
+    .btn-primary {
+        background-color: #007bff;
+        border-color: #007bff;
+        padding: 10px 20px;
+        font-size: 1.1em;
+    }
+    .btn-primary:hover {
+        background-color: #0056b3;
+        border-color: #0056b3;
+    }
+</style>
 
+<div class="container-home">
+    <h1>Students Performance Prediction</h1>
+    <p>GPA Prediction based on Machine Learning</p>
+    <a href="{{ url_for('predict') }}" class="btn btn-primary">Predict GPA</a>
+</div>
+
+{% endblock content %}
